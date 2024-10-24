@@ -1,0 +1,57 @@
+name: alec.farrell
+description: open system
+version: 0.8.5.650
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: alecfarrell
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:05:19'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:05:19'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:05:19.588838Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '1629475961'
+  createdAt: '2024-10-24T22:05:19.588838Z'
+  type: plibMaven
+projectDependencies:
+  '317':
+    projectUID: 317
+    projectName: talia.zemlak
+    repositoryPath: gitUri=http://gitserver:3000/dev_2yH9VzQY_team_448/dev_2yH9VzQY_project_317.git&subPath=
+    version: talia.zemlak/1.4.6.785
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 22:05:17'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
